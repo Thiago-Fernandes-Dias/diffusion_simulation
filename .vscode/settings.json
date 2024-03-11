@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "ndlib",
+        "networkx"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
